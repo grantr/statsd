@@ -1,3 +1,4 @@
-*.swp
 *.gem
-*.swo
+.bundle
+Gemfile.lock
+pkg/*
